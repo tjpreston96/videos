@@ -1,3 +1,10 @@
+# App Images
+## Default State
+![default](/public/images/ReactVideoDefault.png)
+## Generic Search
+![tacoSearch](/public/images/ReactVideoTacos.png)
+- - -
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
